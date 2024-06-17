@@ -2,9 +2,20 @@
 
 ## 👨‍💻 About Me
 I'm a student currently exploring the fascinating world of programming and web development. I'm passionate about learning new technologies and building projects that can make a difference.
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rajip2001/count.svg?"  />
+</div>
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajip-tuitui-399639284/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajip_tuitui)
-[![Email](https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rajiptuitui67@gmail.comcom)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajip2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajip2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rajip2001/rajip2001/output/snake.svg" alt="Snake animation" />
+
+###
 
