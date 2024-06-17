@@ -6,9 +6,10 @@ I'm a student currently exploring the fascinating world of programming and web d
 - 🌱 I’m currently learning Python, HTML, and CSS.
 - 🤔 I’m looking for help with improving my coding skills and understanding best practices.
 - 💬 Ask me about Python basics, HTML, and CSS.
-- 📫 How to reach me: [Your Email or Social Media]
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rajiptuitui67@gmail.comcom)
 
-- ⚡ Fun fact: [A Fun Fact About You]
+
+
 
 
 
