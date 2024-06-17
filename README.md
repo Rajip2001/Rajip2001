@@ -3,19 +3,6 @@
 ## 👨‍💻 About Me
 I'm a student currently exploring the fascinating world of programming and web development. I'm passionate about learning new technologies and building projects that can make a difference.
 
-- 🌱 I’m currently learning Python, HTML, and CSS.
-- 🤔 I’m looking for help with improving my coding skills and understanding best practices.
-- 💬 Ask me about Python basics, HTML, and CSS.
-
-
-
-
-
-
-
-## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajip2001&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajip-tuitui-399639284/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajip_tuitui)
