@@ -1,4 +1,4 @@
-##👋 Hi, I’m Rajip Tuitui
+# Hi there 👋, I'm Rajip Tuitui
 
 ## 👨‍💻 About Me
 I'm a student currently exploring the fascinating world of programming and web development. I'm passionate about learning new technologies and building projects that can make a difference.
@@ -7,7 +7,7 @@ I'm a student currently exploring the fascinating world of programming and web d
 - 🤔 I’m looking for help with improving my coding skills and understanding best practices.
 - 💬 Ask me about Python basics, HTML, and CSS.
 - 📫 How to reach me: [Your Email or Social Media]
-- 😄 Pronouns: [Your Pronouns]
+
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## 🔧 Technologies & Tools
@@ -26,9 +26,3 @@ I'm a student currently exploring the fascinating world of programming and web d
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-<!---
-Rajip2001/Rajip2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
