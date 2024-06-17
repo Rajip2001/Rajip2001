@@ -15,7 +15,4 @@ I'm a student currently exploring the fascinating world of programming and web d
 
 ###
 
-<img src="https://raw.githubusercontent.com/rajip2001/rajip2001/output/snake.svg" alt="Snake animation" />
-
-###
 
