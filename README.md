@@ -6,5 +6,5 @@ I'm a student currently exploring the fascinating world of programming and web d
 ## Contact
 
 Feel free to reach out to me via the following methods:
-- **Email**: [your.email@example.com](mailto:rajiptuitui67@gmail.com)
+- **Email**: [rajiptuitui67@gmail.com](mailto:rajiptuitui67@gmail.com)
 
